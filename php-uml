@@ -1,0 +1,6 @@
+<https://pear.php.net/package/PHP_UML>
+
+pear install PHP_UML
+
+
+genera un archivo project.xmi
