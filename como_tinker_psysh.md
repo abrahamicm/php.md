@@ -12,3 +12,8 @@ asi se descarga un phar, desde window se puede usar el navedagor  tambien se pue
 composer g require psy/psysh:@stable
 psysh
 ~~~
+
+usar en composer 
+~~~
+vendor\bin\psysh
+~~~
